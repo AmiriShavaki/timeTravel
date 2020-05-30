@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1590411659 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\dreams.cpp
+	"Dreams.h"
+	<iostream>
+
+1590410919 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\dreams.h
+	"People.h"
+	<string>
+	<vector>
+
+1590410194 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\people.h
+	<string>
+	<vector>
+	"StringUtility.h"
+
+1590404977 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\stringutility.h
+	<string>
+
+1590414273 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\main.cpp
+	<iostream>
+	"Dreams.h"
+	"Mixtures.h"
+
+1590396208 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\mixtures.h
+	"Dreams.h"
+
+1590410725 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\mixtures.cpp
+	"Mixtures.h"
+	<iostream>
+	<cstdlib>
+
+1590411021 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw3_amiri_shavaki_98522148\timetravel\people.cpp
+	"People.h"
+	<iostream>
+	<algorithm>
+
+1590411659 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\dreams.cpp
+	"Dreams.h"
+	<iostream>
+
+1590410919 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\dreams.h
+	"People.h"
+	<string>
+	<vector>
+
+1590410194 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\people.h
+	<string>
+	<vector>
+	"StringUtility.h"
+
+1590404977 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\stringutility.h
+	<string>
+
+1590746601 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\main.cpp
+	<iostream>
+	"Dreams.h"
+	"Mixtures.h"
+
+1590396208 c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\mixtures.h
+	"Dreams.h"
+
+1590410725 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\mixtures.cpp
+	"Mixtures.h"
+	<iostream>
+	<cstdlib>
+
+1590411021 source:c:\users\amiri\documents\midterm2\ap\exercises\ap_hw4_amiri_shavaki_98522148\timetravel\people.cpp
+	"People.h"
+	<iostream>
+	<algorithm>
+
